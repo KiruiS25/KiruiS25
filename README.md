@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Kirui Synthia
-- 👀 A Busniness & sales Data Analyst, SQL/ python programmer
-- I am a Data Science enthusiast
+
 
 
 <!---
