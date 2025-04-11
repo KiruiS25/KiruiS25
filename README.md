@@ -1,6 +1,4 @@
-BUSINESS & SALES DATA ANLYST, SQL/ Python programming
-Hi I'm Synthia Kirui
-A Data Science enthusiast
+
 
 
 
